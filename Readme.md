@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Мария  Колбецкая](https://up.htmlacademy.ru/htmlcss-individual/1/user/2300451).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
